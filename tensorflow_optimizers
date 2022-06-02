@@ -1,0 +1,10 @@
+GradientDescentOptimizer
+AdadeltaOptimizer
+AdagradOptimizer
+MomentumOptimizer
+AdamOptimizer
+FtrlOptimizer
+RMSPropOptimizer
+
+
+
