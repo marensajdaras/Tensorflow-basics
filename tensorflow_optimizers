@@ -5,6 +5,7 @@ MomentumOptimizer
 AdamOptimizer
 FtrlOptimizer
 RMSPropOptimizer
+...
 
 
 
